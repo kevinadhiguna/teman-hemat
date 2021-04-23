@@ -21,3 +21,5 @@ In the project directory, you can :
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/teman-hemat)](https://github.com/kevinadhiguna)
